@@ -3,26 +3,26 @@
 This is a simple, yet powerful, multi-client chat application built using Winsock in C++. It allows multiple clients to communicate with each other in real-time. 🚀
 
 
-✨ #Features
-🧑‍🤝‍🧑 Multi-client support: The server can handle multiple clients concurrently.
-⚡ Real-time messaging: Send and receive messages instantly.
-📣 Broadcast functionality: Messages from one client are sent to all other connected clients.
-🛠️ Thread-based architecture: Efficiently handles multiple clients with multithreading.
-💬 User-friendly interface: Simple to use for chatting.
+#✨ #Features
+🧑‍🤝‍🧑1. Multi-client support: The server can handle multiple clients concurrently.
+⚡2.Real-time messaging: Send and receive messages instantly.
+📣3.Broadcast functionality: Messages from one client are sent to all other connected clients.
+🛠️4.Thread-based architecture: Efficiently handles multiple clients with multithreading.
+💬5. User-friendly interface: Simple to use for chatting.
 
 .
-🛠️ Technologies Used
-💻 C++: Programming language.
-🌐 Winsock2: Socket programming library for Windows.
-🧵 Multithreading: To handle simultaneous client interactions.
+#🛠️ Technologies Used
+💻 1.C++: Programming language.
+🌐 2.Winsock2: Socket programming library for Windows.
+🧵 3.Multithreading: To handle simultaneous client interactions.
 
 
 
-📦 Setup and Installation
-📋 Prerequisites
-🖥️ Windows operating system.
-🛠️ Visual Studio or any C++ compiler that supports Winsock2.
-📚 Basic knowledge of C++ and socket programming.
+#📦 Setup and Installation
+📋 1.Prerequisites
+🖥️ 2.Windows operating system.
+🛠️ 3.Visual Studio or any C++ compiler that supports Winsock2.
+📚 4.Basic knowledge of C++ and socket programming.
 
 .
 🪜 Steps to Run
