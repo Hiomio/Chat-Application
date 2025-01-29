@@ -4,13 +4,12 @@ This is a simple, yet powerful, multi-client chat application built using Winsoc
 
 
 ###✨ #Features
---- bash
+
 🧑‍🤝‍🧑1. Multi-client support: The server can handle multiple clients concurrently.
 ⚡2.Real-time messaging: Send and receive messages instantly.
 📣3.Broadcast functionality: Messages from one client are sent to all other connected clients.
 🛠️4.Thread-based architecture: Efficiently handles multiple clients with multithreading.
 💬5. User-friendly interface: Simple to use for chatting.
---- bash
 
 .
 ###🛠️ Technologies Used
